@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    font-family: Montserrat;
+}
+.out{
+    border: 1px solid black;
+    height: 40vh;
+    width: 60%;
+    font-weight: bold;
+    padding: 15px;
+    background-color: white;
+    margin: 10px;
+    overflow-y: scroll;
+    box-shadow: 10px 10px 5px gold;
+}
+image{
+    position: absolute;
+}
+.shloks article{
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: rgb(251, 209, 103);
+}
+input{
+    width: 200px; outline: none; border-radius: 20px;
+    height: 30px;
+    font-weight: bold; 
+}
+button{
+    height: 35px;
+    width: 200px;
+    font-weight: bold;
+
+    border-radius: 20px;
+    outline: none;
+}
+header{
+    /* height: 10px; */
+    border: 1px solid black;
+    /* width: 100px; */
+    background-color: gold;
+    margin-bottom: 10px;
+}
+.out2{
+    display: flex;
+    background-color: white;
+    flex-direction: column;
+    border: 1px solid gray;
+    width: 70%;
+    height: 70vh;
+    font-weight: bold;
+    overflow-y: scroll;
+}
+.out3{
+    width: 90%;
+    background-color: white;
+    height: 100vh;
+    border: 1px solid gray;
+}
+.card{
+    border: 2px solid gold;
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    box-shadow: 10px 10px 5px gold;
+}
+.shloks{
+    width: 90%;
+    height: 70vh;
+    border: 2px solid gold;
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+}

@@ -1,0 +1,13 @@
+.output{
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    max-height: fit-content;
+    width: 60%;
+    margin-left: 20%;
+}
+#t1{
+    width: 40%;
+    height: 40px;
+    margin-left: 30%;
+}

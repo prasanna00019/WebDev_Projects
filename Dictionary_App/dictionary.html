@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<link rel="stylesheet" href="dictionary.css">
+</head>
+<body>
+    <header>
+        <nav>
+       <h4> DICTIONARY APP</h4>
+        </nav>
+    </header>
+    <main>
+    <h1>ENTER THE WORD TO SEARCH IT'S MEANING </h1>
+    <form action="/submit" method="post">
+        <!-- Input Filed to Validate Email Address --> 
+        <input placeholder="Enter your word" type="text" id="username" name="username" required>
+        <br><br>
+        <!-- Submit button -->
+        <input id="submitBtn" class="btn" type="submit" value="Submit">
+      </form>
+    <div class="flex0">  
+     <div class="flex-col">   
+      <h1 id="word1">WORD:</h1> 
+ 
+      <div style="display: flex;"> <h1 style="margin-top: 0px;position:relative;" id="word2">PRONOUNCIATION:
+        
+
+      </h1><button style="width: 50px;margin-left: 10px;margin-right: 200px;" id="playBtn" ><img src="play.svg" alt=""></button>
+     </div> 
+     <div class="m1"> <h1>MEANING(S):</h1><br></div>
+      
+      <div id="resultCont" class="res">
+       
+        
+    </div>
+    </div>
+    <div class="flex1">     
+        <div class="flex2">
+            <span style="font-weight: bolders;"><h1>ANTONYMS:</h1></span>   <h1 id="ant" class="ant"></h1>
+            <span style="font-weight: bolders;"><h1>SYNONYMS:</h1></span>    <h1 id="syn" class="syn"></h1>
+      </div>
+    
+    </div>
+   </div> 
+    </main>
+
+   
+    
+    <script src="dictionay.js"></script>
+</body>
+</html>

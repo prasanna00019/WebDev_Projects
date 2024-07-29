@@ -1,0 +1,113 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <input id="t1" type="text" placeholder="ENTER YOUR QUERY"> 
+    <button id="a1">GENERATE</button>
+    <div  class="output" id="o1">
+    </div>
+    
+    <script type="importmap">
+        {
+          "imports": {
+            "@google/generative-ai": "https://esm.run/@google/generative-ai"
+          }
+        }
+      </script>
+      <script type="module" src="index.js">
+        
+      </script>
+</body>
+</html> -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Generative AI Chat</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 20px;
+    }
+    .chat-history {
+      border: 1px solid #ddd;
+      padding: 10px;
+      margin-bottom: 10px;
+      height: 200px;
+      overflow-y: scroll;
+    }
+    .user-message {
+      font-weight: bold;
+      color: blue;
+    }
+    .ai-message {
+    }
+  </style>
+</head>
+<body>
+  <h1>Generative AI Chat</h1>
+  <div class="chat-history" id="chat-history"></div>
+  <input type="text" id="user-input" placeholder="Type your message...">
+  <button onclick=sendMessage()>Send</button>
+  <script type="importmap">
+    {
+      "imports": {
+        "@google/generative-ai": "https://esm.run/@google/generative-ai"
+      }
+    }
+  </script>
+  <script type="module">
+    import { GoogleGenerativeAI } from "@google/generative-ai";
+
+    const chatHistory = document.getElementById("chat-history");
+    const userInput = document.getElementById("user-input");
+
+    // Replace with your actual API Key
+        // const API_KEY = "";
+    const apiKey = "AIzaSyDT7bvq6tWlQsf9-3-uwGxWYCO9VHGAGQI";
+    const genAI = new GoogleGenerativeAI(apiKey);
+    const model = genAI.getGenerativeModel({
+      model: "gemini-1.5-flash",
+    });
+
+    const generationConfig = {
+      temperature: 1,
+      topP: 0.95,
+      topK: 64,
+      maxOutputTokens: 8192,
+      responseMimeType: "text/plain",
+    };
+
+    let chatSession = null;
+
+    async function sendMessage() {
+      const userMessage = userInput.value.trim();
+      if (userMessage) {
+        if (!chatSession) {
+          chatSession = model.startChat({
+            generationConfig,
+          });
+        }
+        const result = await chatSession.sendMessage(userMessage);
+        appendMessage(userMessage, "user-message");
+        appendMessage(result.response.text(), "ai-message");
+        userInput.value = "";
+      }
+    }
+
+    function appendMessage(message, className) {
+      const messageElement = document.createElement("p");
+      messageElement.textContent = message;
+      messageElement.classList.add(className);
+      chatHistory.appendChild(messageElement);
+      chatHistory.scrollTop = chatHistory.scrollHeight; // Auto scroll to bottom
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+ * {
+    font-family: Poppins;
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    background-color: black;
+    justify-content: space-between;
+    color: white;
+    padding: 19px 12px;
+}
+
+ul {
+    display: flex;
+}
+
+ul li {
+    list-style: none;
+    padding: 0 13px;
+    font-size: 13px;
+
+}
+.container{
+    background-color: azure;
+    max-width: 80vw;
+    margin: auto;
+}
+main{
+    min-height: 100vh;
+}
+ul li a{color: white;
+text-decoration: none;
+}
+ul> li>a:hover{
+    color: gray;
+}
+footer{
+    background-color: wheat;
+    color: white;
+    display: flex;
+    font-size: 12px;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+}
+.logo img{
+    width: 15px;
+    filter: invert(1);
+}
+#resultCont div::first-letter{
+    text-transform: uppercase;
+}
+input {
+    min-width: 23vw;;
+    padding: 3px 12px;
+    border: 2px solid black;
+    border-radius: 4px;
+    font-size: 20px;
+}
+.logo{
+    padding: 6px 0;
+    font-size: 20px;
+}
+.container h1{
+    padding: 12px 0;
+}
+.btn{
+    background: black;
+    color: white;
+    padding: 9px 12px;
+    border: 1px solid gray;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.logo span{
+    font-size: 20px;
+}
+@media only screen and (max-width:600px){
+    nav{
+        flex-direction: column;
+    }
+    .container{
+        font-size: 12px;  
+    }
+    .logo{
+        padding: 6px 0;
+    }
+    .logo img{
+        width: 15px;
+        filter: invert(1);
+    }
+}

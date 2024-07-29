@@ -1,0 +1,1484 @@
+{
+    "success": true,
+    "data": {
+        "total": 1338,
+        "start": -9,
+        "results": [
+            {
+                "id": "lnAPX32l",
+                "name": "Salaar - Final Punch (From &quot;Salaar Cease Fire - Telugu Trailer&quot;)",
+                "type": "song",
+                "year": "2024",
+                "releaseDate": null,
+                "duration": 173,
+                "label": "Hombale Music",
+                "explicitContent": false,
+                "playCount": 1050932,
+                "language": "telugu",
+                "hasLyrics": false,
+                "lyricsId": null,
+                "url": "https://www.jiosaavn.com/song/salaar-final-punch-from-salaar-cease-fire-telugu-trailer/HAYqYSwDBV8",
+                "copyright": "℗ 2023 Hombale Music",
+                "album": {
+                    "id": "50890939",
+                    "name": "Salaar Cease Fire - Telugu",
+                    "url": "https://www.jiosaavn.com/album/salaar-cease-fire-telugu/IeLBRkkKtj8_"
+                },
+                "artists": {
+                    "primary": [
+                        {
+                            "id": "697634",
+                            "name": "Ravi Basrur",
+                            "role": "primary_artists",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/ravi-basrur-songs/ptQxxcqIDBg_"
+                        }
+                    ],
+                    "featured": [],
+                    "all": [
+                        {
+                            "id": "697634",
+                            "name": "Ravi Basrur",
+                            "role": "music",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/ravi-basrur-songs/ptQxxcqIDBg_"
+                        },
+                        {
+                            "id": "458996",
+                            "name": "Prabhas",
+                            "role": "starring",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Prabhas_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Prabhas_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Prabhas_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/prabhas-songs/hWJzaGugKhE_"
+                        },
+                        {
+                            "id": "758681",
+                            "name": "Prithviraj Sukumaran",
+                            "role": "starring",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Prithviraj_Sukumaran_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Prithviraj_Sukumaran_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Prithviraj_Sukumaran_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/prithviraj-sukumaran-songs/rcDSlR2HleQ_"
+                        },
+                        {
+                            "id": "455666",
+                            "name": "Shruti Haasan",
+                            "role": "starring",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Shruti_Haasan_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Shruti_Haasan_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Shruti_Haasan_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/shruti-haasan-songs/uBCVnIaORTs_"
+                        }
+                    ]
+                },
+                "image": [
+                    {
+                        "quality": "50x50",
+                        "url": "https://c.saavncdn.com/330/Salaar-Cease-Fire-Telugu-Telugu-2024-20240104154534-50x50.jpg"
+                    },
+                    {
+                        "quality": "150x150",
+                        "url": "https://c.saavncdn.com/330/Salaar-Cease-Fire-Telugu-Telugu-2024-20240104154534-150x150.jpg"
+                    },
+                    {
+                        "quality": "500x500",
+                        "url": "https://c.saavncdn.com/330/Salaar-Cease-Fire-Telugu-Telugu-2024-20240104154534-500x500.jpg"
+                    }
+                ],
+                "downloadUrl": [
+                    {
+                        "quality": "12kbps",
+                        "url": "https://aac.saavncdn.com/330/83208f229eeb1c3316da0eb59e111069_12.mp4"
+                    },
+                    {
+                        "quality": "48kbps",
+                        "url": "https://aac.saavncdn.com/330/83208f229eeb1c3316da0eb59e111069_48.mp4"
+                    },
+                    {
+                        "quality": "96kbps",
+                        "url": "https://aac.saavncdn.com/330/83208f229eeb1c3316da0eb59e111069_96.mp4"
+                    },
+                    {
+                        "quality": "160kbps",
+                        "url": "https://aac.saavncdn.com/330/83208f229eeb1c3316da0eb59e111069_160.mp4"
+                    },
+                    {
+                        "quality": "320kbps",
+                        "url": "https://aac.saavncdn.com/330/83208f229eeb1c3316da0eb59e111069_320.mp4"
+                    }
+                ]
+            },
+            {
+                "id": "U3KZCaDU",
+                "name": "Salaar",
+                "type": "song",
+                "year": "2023",
+                "releaseDate": null,
+                "duration": 129,
+                "label": "Zane Room Entertainments",
+                "explicitContent": false,
+                "playCount": 6853,
+                "language": "telugu",
+                "hasLyrics": true,
+                "lyricsId": null,
+                "url": "https://www.jiosaavn.com/song/salaar/JVsgazdRc2Y",
+                "copyright": "© 2023 Zane Room Entertainments",
+                "album": {
+                    "id": "51061569",
+                    "name": "Salaar",
+                    "url": "https://www.jiosaavn.com/album/salaar/BHO54MBEQQE_"
+                },
+                "artists": {
+                    "primary": [
+                        {
+                            "id": "11158406",
+                            "name": "ARKID ZANE",
+                            "role": "primary_artists",
+                            "image": [],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/arkid-zane-songs/Np9qkalTZvo_"
+                        }
+                    ],
+                    "featured": [],
+                    "all": [
+                        {
+                            "id": "11158406",
+                            "name": "ARKID ZANE",
+                            "role": "singer",
+                            "image": [],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/arkid-zane-songs/Np9qkalTZvo_"
+                        }
+                    ]
+                },
+                "image": [
+                    {
+                        "quality": "50x50",
+                        "url": "https://c.saavncdn.com/362/Salaar-Telugu-2023-20231229002205-50x50.jpg"
+                    },
+                    {
+                        "quality": "150x150",
+                        "url": "https://c.saavncdn.com/362/Salaar-Telugu-2023-20231229002205-150x150.jpg"
+                    },
+                    {
+                        "quality": "500x500",
+                        "url": "https://c.saavncdn.com/362/Salaar-Telugu-2023-20231229002205-500x500.jpg"
+                    }
+                ],
+                "downloadUrl": [
+                    {
+                        "quality": "12kbps",
+                        "url": "https://aac.saavncdn.com/362/53789008957b820d714ce5cde3a78d19_12.mp4"
+                    },
+                    {
+                        "quality": "48kbps",
+                        "url": "https://aac.saavncdn.com/362/53789008957b820d714ce5cde3a78d19_48.mp4"
+                    },
+                    {
+                        "quality": "96kbps",
+                        "url": "https://aac.saavncdn.com/362/53789008957b820d714ce5cde3a78d19_96.mp4"
+                    },
+                    {
+                        "quality": "160kbps",
+                        "url": "https://aac.saavncdn.com/362/53789008957b820d714ce5cde3a78d19_160.mp4"
+                    },
+                    {
+                        "quality": "320kbps",
+                        "url": "https://aac.saavncdn.com/362/53789008957b820d714ce5cde3a78d19_320.mp4"
+                    }
+                ]
+            },
+            {
+                "id": "UJHVoEK1",
+                "name": "Salaar - Final Punch (From &quot;Salaar Cease Fire - Hindi Trailer&quot;)",
+                "type": "song",
+                "year": "2024",
+                "releaseDate": null,
+                "duration": 173,
+                "label": "Hombale Music",
+                "explicitContent": false,
+                "playCount": 148395,
+                "language": "hindi",
+                "hasLyrics": false,
+                "lyricsId": null,
+                "url": "https://www.jiosaavn.com/song/salaar-final-punch-from-salaar-cease-fire-hindi-trailer/JSIjZxt1fAI",
+                "copyright": "℗ 2023 Hombale Music",
+                "album": {
+                    "id": "50890942",
+                    "name": "Salaar Cease Fire - Hindi",
+                    "url": "https://www.jiosaavn.com/album/salaar-cease-fire-hindi/i8nsaLmZprQ_"
+                },
+                "artists": {
+                    "primary": [
+                        {
+                            "id": "697634",
+                            "name": "Ravi Basrur",
+                            "role": "primary_artists",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/ravi-basrur-songs/ptQxxcqIDBg_"
+                        }
+                    ],
+                    "featured": [],
+                    "all": [
+                        {
+                            "id": "697634",
+                            "name": "Ravi Basrur",
+                            "role": "music",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/ravi-basrur-songs/ptQxxcqIDBg_"
+                        },
+                        {
+                            "id": "458996",
+                            "name": "Prabhas",
+                            "role": "starring",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Prabhas_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Prabhas_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Prabhas_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/prabhas-songs/hWJzaGugKhE_"
+                        },
+                        {
+                            "id": "758681",
+                            "name": "Prithviraj Sukumaran",
+                            "role": "starring",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Prithviraj_Sukumaran_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Prithviraj_Sukumaran_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Prithviraj_Sukumaran_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/prithviraj-sukumaran-songs/rcDSlR2HleQ_"
+                        },
+                        {
+                            "id": "455666",
+                            "name": "Shruti Haasan",
+                            "role": "starring",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Shruti_Haasan_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Shruti_Haasan_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Shruti_Haasan_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/shruti-haasan-songs/uBCVnIaORTs_"
+                        }
+                    ]
+                },
+                "image": [
+                    {
+                        "quality": "50x50",
+                        "url": "https://c.saavncdn.com/679/Salaar-Cease-Fire-Hindi-Hindi-2024-20240104154612-50x50.jpg"
+                    },
+                    {
+                        "quality": "150x150",
+                        "url": "https://c.saavncdn.com/679/Salaar-Cease-Fire-Hindi-Hindi-2024-20240104154612-150x150.jpg"
+                    },
+                    {
+                        "quality": "500x500",
+                        "url": "https://c.saavncdn.com/679/Salaar-Cease-Fire-Hindi-Hindi-2024-20240104154612-500x500.jpg"
+                    }
+                ],
+                "downloadUrl": [
+                    {
+                        "quality": "12kbps",
+                        "url": "https://aac.saavncdn.com/679/0111cfd2d60812694a568c0c46cdc01e_12.mp4"
+                    },
+                    {
+                        "quality": "48kbps",
+                        "url": "https://aac.saavncdn.com/679/0111cfd2d60812694a568c0c46cdc01e_48.mp4"
+                    },
+                    {
+                        "quality": "96kbps",
+                        "url": "https://aac.saavncdn.com/679/0111cfd2d60812694a568c0c46cdc01e_96.mp4"
+                    },
+                    {
+                        "quality": "160kbps",
+                        "url": "https://aac.saavncdn.com/679/0111cfd2d60812694a568c0c46cdc01e_160.mp4"
+                    },
+                    {
+                        "quality": "320kbps",
+                        "url": "https://aac.saavncdn.com/679/0111cfd2d60812694a568c0c46cdc01e_320.mp4"
+                    }
+                ]
+            },
+            {
+                "id": "kmmou_5G",
+                "name": "Salaar - Final Punch (From &quot;Salaar Cease Fire - Kannada Trailer&quot;)",
+                "type": "song",
+                "year": "2024",
+                "releaseDate": null,
+                "duration": 173,
+                "label": "Hombale Music",
+                "explicitContent": false,
+                "playCount": 78572,
+                "language": "kannada",
+                "hasLyrics": false,
+                "lyricsId": null,
+                "url": "https://www.jiosaavn.com/song/salaar-final-punch-from-salaar-cease-fire-kannada-trailer/GwUGXgFvAnQ",
+                "copyright": "℗ 2023 Hombale Music",
+                "album": {
+                    "id": "50890940",
+                    "name": "Salaar Cease Fire - Kannada",
+                    "url": "https://www.jiosaavn.com/album/salaar-cease-fire-kannada/eHNd,eVHKE8_"
+                },
+                "artists": {
+                    "primary": [
+                        {
+                            "id": "697634",
+                            "name": "Ravi Basrur",
+                            "role": "primary_artists",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/ravi-basrur-songs/ptQxxcqIDBg_"
+                        }
+                    ],
+                    "featured": [],
+                    "all": [
+                        {
+                            "id": "697634",
+                            "name": "Ravi Basrur",
+                            "role": "music",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/ravi-basrur-songs/ptQxxcqIDBg_"
+                        },
+                        {
+                            "id": "458996",
+                            "name": "Prabhas",
+                            "role": "starring",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Prabhas_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Prabhas_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Prabhas_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/prabhas-songs/hWJzaGugKhE_"
+                        },
+                        {
+                            "id": "758681",
+                            "name": "Prithviraj Sukumaran",
+                            "role": "starring",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Prithviraj_Sukumaran_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Prithviraj_Sukumaran_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Prithviraj_Sukumaran_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/prithviraj-sukumaran-songs/rcDSlR2HleQ_"
+                        },
+                        {
+                            "id": "455666",
+                            "name": "Shruti Haasan",
+                            "role": "starring",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Shruti_Haasan_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Shruti_Haasan_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Shruti_Haasan_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/shruti-haasan-songs/uBCVnIaORTs_"
+                        }
+                    ]
+                },
+                "image": [
+                    {
+                        "quality": "50x50",
+                        "url": "https://c.saavncdn.com/467/Salaar-Cease-Fire-Kannada-Kannada-2024-20240104154530-50x50.jpg"
+                    },
+                    {
+                        "quality": "150x150",
+                        "url": "https://c.saavncdn.com/467/Salaar-Cease-Fire-Kannada-Kannada-2024-20240104154530-150x150.jpg"
+                    },
+                    {
+                        "quality": "500x500",
+                        "url": "https://c.saavncdn.com/467/Salaar-Cease-Fire-Kannada-Kannada-2024-20240104154530-500x500.jpg"
+                    }
+                ],
+                "downloadUrl": [
+                    {
+                        "quality": "12kbps",
+                        "url": "https://aac.saavncdn.com/467/45fe3d8f9f73c4d157460ddf11d20f1d_12.mp4"
+                    },
+                    {
+                        "quality": "48kbps",
+                        "url": "https://aac.saavncdn.com/467/45fe3d8f9f73c4d157460ddf11d20f1d_48.mp4"
+                    },
+                    {
+                        "quality": "96kbps",
+                        "url": "https://aac.saavncdn.com/467/45fe3d8f9f73c4d157460ddf11d20f1d_96.mp4"
+                    },
+                    {
+                        "quality": "160kbps",
+                        "url": "https://aac.saavncdn.com/467/45fe3d8f9f73c4d157460ddf11d20f1d_160.mp4"
+                    },
+                    {
+                        "quality": "320kbps",
+                        "url": "https://aac.saavncdn.com/467/45fe3d8f9f73c4d157460ddf11d20f1d_320.mp4"
+                    }
+                ]
+            },
+            {
+                "id": "iduEJycG",
+                "name": "Salaar Cease Fire Telugu Trailer Theme (From &quot;Salaar Cease Fire Telugu Trailer&quot;)",
+                "type": "song",
+                "year": "2024",
+                "releaseDate": null,
+                "duration": 228,
+                "label": "Hombale Music",
+                "explicitContent": false,
+                "playCount": 1220435,
+                "language": "telugu",
+                "hasLyrics": false,
+                "lyricsId": null,
+                "url": "https://www.jiosaavn.com/song/salaar-cease-fire-telugu-trailer-theme-from-salaar-cease-fire-telugu-trailer/GQwedD5JVHQ",
+                "copyright": "℗ 2023 Hombale Music",
+                "album": {
+                    "id": "50890939",
+                    "name": "Salaar Cease Fire - Telugu",
+                    "url": "https://www.jiosaavn.com/album/salaar-cease-fire-telugu/IeLBRkkKtj8_"
+                },
+                "artists": {
+                    "primary": [
+                        {
+                            "id": "697634",
+                            "name": "Ravi Basrur",
+                            "role": "primary_artists",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/ravi-basrur-songs/ptQxxcqIDBg_"
+                        }
+                    ],
+                    "featured": [],
+                    "all": [
+                        {
+                            "id": "697634",
+                            "name": "Ravi Basrur",
+                            "role": "music",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/ravi-basrur-songs/ptQxxcqIDBg_"
+                        },
+                        {
+                            "id": "458996",
+                            "name": "Prabhas",
+                            "role": "starring",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Prabhas_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Prabhas_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Prabhas_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/prabhas-songs/hWJzaGugKhE_"
+                        },
+                        {
+                            "id": "758681",
+                            "name": "Prithviraj Sukumaran",
+                            "role": "starring",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Prithviraj_Sukumaran_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Prithviraj_Sukumaran_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Prithviraj_Sukumaran_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/prithviraj-sukumaran-songs/rcDSlR2HleQ_"
+                        },
+                        {
+                            "id": "455666",
+                            "name": "Shruti Haasan",
+                            "role": "starring",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Shruti_Haasan_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Shruti_Haasan_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Shruti_Haasan_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/shruti-haasan-songs/uBCVnIaORTs_"
+                        }
+                    ]
+                },
+                "image": [
+                    {
+                        "quality": "50x50",
+                        "url": "https://c.saavncdn.com/330/Salaar-Cease-Fire-Telugu-Telugu-2024-20240104154534-50x50.jpg"
+                    },
+                    {
+                        "quality": "150x150",
+                        "url": "https://c.saavncdn.com/330/Salaar-Cease-Fire-Telugu-Telugu-2024-20240104154534-150x150.jpg"
+                    },
+                    {
+                        "quality": "500x500",
+                        "url": "https://c.saavncdn.com/330/Salaar-Cease-Fire-Telugu-Telugu-2024-20240104154534-500x500.jpg"
+                    }
+                ],
+                "downloadUrl": [
+                    {
+                        "quality": "12kbps",
+                        "url": "https://aac.saavncdn.com/330/fbc313ba5985974e9509580272e8b609_12.mp4"
+                    },
+                    {
+                        "quality": "48kbps",
+                        "url": "https://aac.saavncdn.com/330/fbc313ba5985974e9509580272e8b609_48.mp4"
+                    },
+                    {
+                        "quality": "96kbps",
+                        "url": "https://aac.saavncdn.com/330/fbc313ba5985974e9509580272e8b609_96.mp4"
+                    },
+                    {
+                        "quality": "160kbps",
+                        "url": "https://aac.saavncdn.com/330/fbc313ba5985974e9509580272e8b609_160.mp4"
+                    },
+                    {
+                        "quality": "320kbps",
+                        "url": "https://aac.saavncdn.com/330/fbc313ba5985974e9509580272e8b609_320.mp4"
+                    }
+                ]
+            },
+            {
+                "id": "upqVUjfX",
+                "name": "Salaar - Final Punch (From &quot;Salaar Cease Fire - Telugu Trailer&quot;)",
+                "type": "song",
+                "year": "2023",
+                "releaseDate": null,
+                "duration": 173,
+                "label": "Hombale Music",
+                "explicitContent": false,
+                "playCount": 1050927,
+                "language": "telugu",
+                "hasLyrics": false,
+                "lyricsId": null,
+                "url": "https://www.jiosaavn.com/song/salaar-final-punch-from-salaar-cease-fire-telugu-trailer/BRgaZyFaUWs",
+                "copyright": "℗ 2023 Hombale Music",
+                "album": {
+                    "id": "50572169",
+                    "name": "Salaar - Final Punch (From &quot;Salaar Cease Fire - Telugu Trailer&quot;)",
+                    "url": "https://www.jiosaavn.com/album/salaar-final-punch-from-salaar-cease-fire-telugu-trailer/I,Eg2nchOM0_"
+                },
+                "artists": {
+                    "primary": [
+                        {
+                            "id": "697634",
+                            "name": "Ravi Basrur",
+                            "role": "primary_artists",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/ravi-basrur-songs/ptQxxcqIDBg_"
+                        }
+                    ],
+                    "featured": [],
+                    "all": [
+                        {
+                            "id": "697634",
+                            "name": "Ravi Basrur",
+                            "role": "music",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/ravi-basrur-songs/ptQxxcqIDBg_"
+                        },
+                        {
+                            "id": "458996",
+                            "name": "Prabhas",
+                            "role": "starring",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Prabhas_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Prabhas_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Prabhas_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/prabhas-songs/hWJzaGugKhE_"
+                        },
+                        {
+                            "id": "758681",
+                            "name": "Prithviraj Sukumaran",
+                            "role": "starring",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Prithviraj_Sukumaran_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Prithviraj_Sukumaran_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Prithviraj_Sukumaran_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/prithviraj-sukumaran-songs/rcDSlR2HleQ_"
+                        },
+                        {
+                            "id": "455666",
+                            "name": "Shruti Haasan",
+                            "role": "starring",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Shruti_Haasan_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Shruti_Haasan_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Shruti_Haasan_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/shruti-haasan-songs/uBCVnIaORTs_"
+                        }
+                    ]
+                },
+                "image": [
+                    {
+                        "quality": "50x50",
+                        "url": "https://c.saavncdn.com/663/Salaar-Final-Punch-From-Salaar-Cease-Fire-Telugu-Trailer-Telugu-2023-20240103195415-50x50.jpg"
+                    },
+                    {
+                        "quality": "150x150",
+                        "url": "https://c.saavncdn.com/663/Salaar-Final-Punch-From-Salaar-Cease-Fire-Telugu-Trailer-Telugu-2023-20240103195415-150x150.jpg"
+                    },
+                    {
+                        "quality": "500x500",
+                        "url": "https://c.saavncdn.com/663/Salaar-Final-Punch-From-Salaar-Cease-Fire-Telugu-Trailer-Telugu-2023-20240103195415-500x500.jpg"
+                    }
+                ],
+                "downloadUrl": [
+                    {
+                        "quality": "12kbps",
+                        "url": "https://aac.saavncdn.com/663/bbba20c87d130fb7cad5d347247085d3_12.mp4"
+                    },
+                    {
+                        "quality": "48kbps",
+                        "url": "https://aac.saavncdn.com/663/bbba20c87d130fb7cad5d347247085d3_48.mp4"
+                    },
+                    {
+                        "quality": "96kbps",
+                        "url": "https://aac.saavncdn.com/663/bbba20c87d130fb7cad5d347247085d3_96.mp4"
+                    },
+                    {
+                        "quality": "160kbps",
+                        "url": "https://aac.saavncdn.com/663/bbba20c87d130fb7cad5d347247085d3_160.mp4"
+                    },
+                    {
+                        "quality": "320kbps",
+                        "url": "https://aac.saavncdn.com/663/bbba20c87d130fb7cad5d347247085d3_320.mp4"
+                    }
+                ]
+            },
+            {
+                "id": "iNuW-wH9",
+                "name": "Salaar - Final Punch (From &quot;Salaar Cease Fire - Tamil Trailer&quot;)",
+                "type": "song",
+                "year": "2024",
+                "releaseDate": null,
+                "duration": 173,
+                "label": "Hombale Music",
+                "explicitContent": false,
+                "playCount": 49698,
+                "language": "tamil",
+                "hasLyrics": false,
+                "lyricsId": null,
+                "url": "https://www.jiosaavn.com/song/salaar-final-punch-from-salaar-cease-fire-tamil-trailer/GSYeZllHfwo",
+                "copyright": "℗ 2023 Hombale Music",
+                "album": {
+                    "id": "50890937",
+                    "name": "Salaar Cease Fire - Tamil",
+                    "url": "https://www.jiosaavn.com/album/salaar-cease-fire-tamil/-2mDXxtKWlw_"
+                },
+                "artists": {
+                    "primary": [
+                        {
+                            "id": "697634",
+                            "name": "Ravi Basrur",
+                            "role": "primary_artists",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/ravi-basrur-songs/ptQxxcqIDBg_"
+                        }
+                    ],
+                    "featured": [],
+                    "all": [
+                        {
+                            "id": "697634",
+                            "name": "Ravi Basrur",
+                            "role": "music",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/ravi-basrur-songs/ptQxxcqIDBg_"
+                        },
+                        {
+                            "id": "458996",
+                            "name": "Prabhas",
+                            "role": "starring",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Prabhas_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Prabhas_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Prabhas_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/prabhas-songs/hWJzaGugKhE_"
+                        },
+                        {
+                            "id": "758681",
+                            "name": "Prithviraj Sukumaran",
+                            "role": "starring",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Prithviraj_Sukumaran_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Prithviraj_Sukumaran_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Prithviraj_Sukumaran_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/prithviraj-sukumaran-songs/rcDSlR2HleQ_"
+                        },
+                        {
+                            "id": "455666",
+                            "name": "Shruti Haasan",
+                            "role": "starring",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Shruti_Haasan_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Shruti_Haasan_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Shruti_Haasan_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/shruti-haasan-songs/uBCVnIaORTs_"
+                        }
+                    ]
+                },
+                "image": [
+                    {
+                        "quality": "50x50",
+                        "url": "https://c.saavncdn.com/170/Salaar-Cease-Fire-Tamil-Tamil-2024-20240104154630-50x50.jpg"
+                    },
+                    {
+                        "quality": "150x150",
+                        "url": "https://c.saavncdn.com/170/Salaar-Cease-Fire-Tamil-Tamil-2024-20240104154630-150x150.jpg"
+                    },
+                    {
+                        "quality": "500x500",
+                        "url": "https://c.saavncdn.com/170/Salaar-Cease-Fire-Tamil-Tamil-2024-20240104154630-500x500.jpg"
+                    }
+                ],
+                "downloadUrl": [
+                    {
+                        "quality": "12kbps",
+                        "url": "https://aac.saavncdn.com/170/2def3106793b8e64302c7702a89857e8_12.mp4"
+                    },
+                    {
+                        "quality": "48kbps",
+                        "url": "https://aac.saavncdn.com/170/2def3106793b8e64302c7702a89857e8_48.mp4"
+                    },
+                    {
+                        "quality": "96kbps",
+                        "url": "https://aac.saavncdn.com/170/2def3106793b8e64302c7702a89857e8_96.mp4"
+                    },
+                    {
+                        "quality": "160kbps",
+                        "url": "https://aac.saavncdn.com/170/2def3106793b8e64302c7702a89857e8_160.mp4"
+                    },
+                    {
+                        "quality": "320kbps",
+                        "url": "https://aac.saavncdn.com/170/2def3106793b8e64302c7702a89857e8_320.mp4"
+                    }
+                ]
+            },
+            {
+                "id": "-hftAkX6",
+                "name": "Salaar The Shourayanga",
+                "type": "song",
+                "year": "2024",
+                "releaseDate": null,
+                "duration": 113,
+                "label": "Hombale Music",
+                "explicitContent": false,
+                "playCount": 53406,
+                "language": "telugu",
+                "hasLyrics": false,
+                "lyricsId": null,
+                "url": "https://www.jiosaavn.com/song/salaar-the-shourayanga/XQANRTVbbwU",
+                "copyright": "℗ 2024 Hombale Music",
+                "album": {
+                    "id": "53977882",
+                    "name": "Salaar Pt. 1 - Ceasefire (Original Backgroud Score)",
+                    "url": "https://www.jiosaavn.com/album/salaar-pt.-1-ceasefire-original-backgroud-score/zAhxOJ3Zwzg_"
+                },
+                "artists": {
+                    "primary": [
+                        {
+                            "id": "697634",
+                            "name": "Ravi Basrur",
+                            "role": "primary_artists",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/ravi-basrur-songs/ptQxxcqIDBg_"
+                        }
+                    ],
+                    "featured": [],
+                    "all": [
+                        {
+                            "id": "697634",
+                            "name": "Ravi Basrur",
+                            "role": "music",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/ravi-basrur-songs/ptQxxcqIDBg_"
+                        }
+                    ]
+                },
+                "image": [
+                    {
+                        "quality": "50x50",
+                        "url": "https://c.saavncdn.com/180/Salaar-Pt-1-Ceasefire-Original-Backgroud-Score-Telugu-2024-20240503194726-50x50.jpg"
+                    },
+                    {
+                        "quality": "150x150",
+                        "url": "https://c.saavncdn.com/180/Salaar-Pt-1-Ceasefire-Original-Backgroud-Score-Telugu-2024-20240503194726-150x150.jpg"
+                    },
+                    {
+                        "quality": "500x500",
+                        "url": "https://c.saavncdn.com/180/Salaar-Pt-1-Ceasefire-Original-Backgroud-Score-Telugu-2024-20240503194726-500x500.jpg"
+                    }
+                ],
+                "downloadUrl": [
+                    {
+                        "quality": "12kbps",
+                        "url": "https://aac.saavncdn.com/180/45bfc509e3895f9fbc00838b46b3eaec_12.mp4"
+                    },
+                    {
+                        "quality": "48kbps",
+                        "url": "https://aac.saavncdn.com/180/45bfc509e3895f9fbc00838b46b3eaec_48.mp4"
+                    },
+                    {
+                        "quality": "96kbps",
+                        "url": "https://aac.saavncdn.com/180/45bfc509e3895f9fbc00838b46b3eaec_96.mp4"
+                    },
+                    {
+                        "quality": "160kbps",
+                        "url": "https://aac.saavncdn.com/180/45bfc509e3895f9fbc00838b46b3eaec_160.mp4"
+                    },
+                    {
+                        "quality": "320kbps",
+                        "url": "https://aac.saavncdn.com/180/45bfc509e3895f9fbc00838b46b3eaec_320.mp4"
+                    }
+                ]
+            },
+            {
+                "id": "N5I5zILA",
+                "name": "Salaar Cease Fire Hindi Trailer Theme (From &quot;Salaar Cease Fire Hindi Trailer&quot;)",
+                "type": "song",
+                "year": "2024",
+                "releaseDate": null,
+                "duration": 228,
+                "label": "Hombale Music",
+                "explicitContent": false,
+                "playCount": 207984,
+                "language": "hindi",
+                "hasLyrics": false,
+                "lyricsId": null,
+                "url": "https://www.jiosaavn.com/song/salaar-cease-fire-hindi-trailer-theme-from-salaar-cease-fire-hindi-trailer/Pl0iBA55e3I",
+                "copyright": "℗ 2023 Hombale Music",
+                "album": {
+                    "id": "50890942",
+                    "name": "Salaar Cease Fire - Hindi",
+                    "url": "https://www.jiosaavn.com/album/salaar-cease-fire-hindi/i8nsaLmZprQ_"
+                },
+                "artists": {
+                    "primary": [
+                        {
+                            "id": "697634",
+                            "name": "Ravi Basrur",
+                            "role": "primary_artists",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/ravi-basrur-songs/ptQxxcqIDBg_"
+                        }
+                    ],
+                    "featured": [],
+                    "all": [
+                        {
+                            "id": "697634",
+                            "name": "Ravi Basrur",
+                            "role": "music",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/ravi-basrur-songs/ptQxxcqIDBg_"
+                        },
+                        {
+                            "id": "458996",
+                            "name": "Prabhas",
+                            "role": "starring",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Prabhas_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Prabhas_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Prabhas_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/prabhas-songs/hWJzaGugKhE_"
+                        },
+                        {
+                            "id": "758681",
+                            "name": "Prithviraj Sukumaran",
+                            "role": "starring",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Prithviraj_Sukumaran_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Prithviraj_Sukumaran_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Prithviraj_Sukumaran_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/prithviraj-sukumaran-songs/rcDSlR2HleQ_"
+                        },
+                        {
+                            "id": "455666",
+                            "name": "Shruti Haasan",
+                            "role": "starring",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Shruti_Haasan_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Shruti_Haasan_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Shruti_Haasan_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/shruti-haasan-songs/uBCVnIaORTs_"
+                        }
+                    ]
+                },
+                "image": [
+                    {
+                        "quality": "50x50",
+                        "url": "https://c.saavncdn.com/679/Salaar-Cease-Fire-Hindi-Hindi-2024-20240104154612-50x50.jpg"
+                    },
+                    {
+                        "quality": "150x150",
+                        "url": "https://c.saavncdn.com/679/Salaar-Cease-Fire-Hindi-Hindi-2024-20240104154612-150x150.jpg"
+                    },
+                    {
+                        "quality": "500x500",
+                        "url": "https://c.saavncdn.com/679/Salaar-Cease-Fire-Hindi-Hindi-2024-20240104154612-500x500.jpg"
+                    }
+                ],
+                "downloadUrl": [
+                    {
+                        "quality": "12kbps",
+                        "url": "https://aac.saavncdn.com/679/14a2017e12725aa552ecbcdb5364edec_12.mp4"
+                    },
+                    {
+                        "quality": "48kbps",
+                        "url": "https://aac.saavncdn.com/679/14a2017e12725aa552ecbcdb5364edec_48.mp4"
+                    },
+                    {
+                        "quality": "96kbps",
+                        "url": "https://aac.saavncdn.com/679/14a2017e12725aa552ecbcdb5364edec_96.mp4"
+                    },
+                    {
+                        "quality": "160kbps",
+                        "url": "https://aac.saavncdn.com/679/14a2017e12725aa552ecbcdb5364edec_160.mp4"
+                    },
+                    {
+                        "quality": "320kbps",
+                        "url": "https://aac.saavncdn.com/679/14a2017e12725aa552ecbcdb5364edec_320.mp4"
+                    }
+                ]
+            },
+            {
+                "id": "Yk9aS9kK",
+                "name": "Salaar Devarata Raisaar",
+                "type": "song",
+                "year": "2024",
+                "releaseDate": null,
+                "duration": 175,
+                "label": "Hombale Music",
+                "explicitContent": false,
+                "playCount": 22782,
+                "language": "telugu",
+                "hasLyrics": false,
+                "lyricsId": null,
+                "url": "https://www.jiosaavn.com/song/salaar-devarata-raisaar/KQNSUCcJXHg",
+                "copyright": "℗ 2024 Hombale Music",
+                "album": {
+                    "id": "53977882",
+                    "name": "Salaar Pt. 1 - Ceasefire (Original Backgroud Score)",
+                    "url": "https://www.jiosaavn.com/album/salaar-pt.-1-ceasefire-original-backgroud-score/zAhxOJ3Zwzg_"
+                },
+                "artists": {
+                    "primary": [
+                        {
+                            "id": "697634",
+                            "name": "Ravi Basrur",
+                            "role": "primary_artists",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/ravi-basrur-songs/ptQxxcqIDBg_"
+                        }
+                    ],
+                    "featured": [],
+                    "all": [
+                        {
+                            "id": "697634",
+                            "name": "Ravi Basrur",
+                            "role": "music",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Ravi_Basrur_002_20221011072518_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/ravi-basrur-songs/ptQxxcqIDBg_"
+                        }
+                    ]
+                },
+                "image": [
+                    {
+                        "quality": "50x50",
+                        "url": "https://c.saavncdn.com/180/Salaar-Pt-1-Ceasefire-Original-Backgroud-Score-Telugu-2024-20240503194726-50x50.jpg"
+                    },
+                    {
+                        "quality": "150x150",
+                        "url": "https://c.saavncdn.com/180/Salaar-Pt-1-Ceasefire-Original-Backgroud-Score-Telugu-2024-20240503194726-150x150.jpg"
+                    },
+                    {
+                        "quality": "500x500",
+                        "url": "https://c.saavncdn.com/180/Salaar-Pt-1-Ceasefire-Original-Backgroud-Score-Telugu-2024-20240503194726-500x500.jpg"
+                    }
+                ],
+                "downloadUrl": [
+                    {
+                        "quality": "12kbps",
+                        "url": "https://aac.saavncdn.com/180/82f531f1e838af1882396d729ec42588_12.mp4"
+                    },
+                    {
+                        "quality": "48kbps",
+                        "url": "https://aac.saavncdn.com/180/82f531f1e838af1882396d729ec42588_48.mp4"
+                    },
+                    {
+                        "quality": "96kbps",
+                        "url": "https://aac.saavncdn.com/180/82f531f1e838af1882396d729ec42588_96.mp4"
+                    },
+                    {
+                        "quality": "160kbps",
+                        "url": "https://aac.saavncdn.com/180/82f531f1e838af1882396d729ec42588_160.mp4"
+                    },
+                    {
+                        "quality": "320kbps",
+                        "url": "https://aac.saavncdn.com/180/82f531f1e838af1882396d729ec42588_320.mp4"
+                    }
+                ]
+            }
+        ]
+    }
+}

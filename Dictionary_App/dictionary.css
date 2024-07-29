@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Poppins;;
+    /* font-size: 23px; */
+}
+main{
+    background-color: azure;
+}
+body{
+    background-color:rgb(173, 241, 173);
+}
+nav{
+    font-size: 34px;
+    display: flex;
+    /* display: ; */
+    padding: 19px 36px;
+    background-color: rgba(135, 206, 250, 0.412);
+}
+.flex0{
+    display: flex;
+    /* gap: 40%; */
+}
+.flex-col{
+    display: flex;
+    flex-direction: column;
+
+}
+.m1{
+    width: 70%;
+}
+.syn{
+    font-size: 23px;
+    font-weight: 400;
+}
+.ant{
+    font-size: 23px;
+    font-weight: 400;
+}
+main h1{
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.flex1{
+    display: flex;;
+    gap:44%;
+    position: static;
+}
+.flex2{
+    display: flex;
+    flex-direction: column;;
+}
+main form{
+    margin-left: 40px;
+}
+input{
+    height: 40px;
+    width: 200px;
+}
+.res{
+    margin-left: 40px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 50%;
+    font-weight: 500;
+    /* font-size: 15px; */
+    /* white-space:; */
+}
