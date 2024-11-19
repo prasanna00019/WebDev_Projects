@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify
 import google.generativeai as genai
-!pip install google-generativeai
+pip install google-generativeai
 
 app = Flask(__name__)
 
