@@ -6,8 +6,6 @@ scikit-learn
 pyaudio
 wave
 pyttsx3
-csv
-datetime
 transformers 
 torch
 sklearn
@@ -15,5 +13,4 @@ numpy
 logging
 json
 cv2
-time
 sentence_transformers
