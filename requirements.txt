@@ -5,7 +5,6 @@ pandas
 scikit-learn  
 pyaudio
 wave
-speech_recognition
 sqlite3
 pyttsx3
 csv
