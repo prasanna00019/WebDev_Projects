@@ -19,4 +19,3 @@ json
 cv2
 time
 sentence_transformers
-pip freeze > requirements.txt
