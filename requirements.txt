@@ -11,6 +11,4 @@ torch
 scikit-learn
 numpy 
 logging
-json
-cv2
 sentence_transformers
